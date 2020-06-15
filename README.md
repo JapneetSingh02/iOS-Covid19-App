@@ -1,6 +1,6 @@
 # iOS-Covid19-Application
 This application is to demonstrate statistics of aftected people COVID 19.
-Self assessment to know your possibility of being affected or not and same precautions.
+Self assessment to know your possibility of being affected and some precautions to stay safe!
 
 ## OS Compatibility:
 iOS 13.0 and above.
